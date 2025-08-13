@@ -13,7 +13,11 @@
    .btns{
     color: black;
     font-size:15px ;
-   }   
+   } 
+   .img-two{
+    width:70%;
+    height: auto;
+   }  
    .main{
     background-position:center top; 
 } 
